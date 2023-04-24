@@ -2449,7 +2449,7 @@ html{
   background-repeat: no-repeat;
   background-position: left;
   background-attachment: fixed;
-  background-size: cover;
+  background-size: auto;
 }
 body{
     background: transparent;
