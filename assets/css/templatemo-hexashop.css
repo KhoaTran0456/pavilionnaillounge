@@ -2446,7 +2446,7 @@ responsive
 /*H edit for Boujee Nails Spa*/
 html{
   background-image: url("../images/background.png");
-  background-repeat: no-repeat;
+  background-repeat: repeat;
   background-position: left;
   background-attachment: fixed;
   background-size: auto;
