@@ -2433,6 +2433,7 @@ responsive
   #explore .right-content .types {
     margin-top: 30px;
   }
+  
 }
 @media (min-width: 1024px){
   #explore .leather {
@@ -2540,7 +2541,8 @@ body{
 }
 
 .color-price{
-  color: #E06893;
+  color: #a72b63;
+  font-weight: 700;
 }
 .border-right-img{
   border-right: 1px solid rgba(255,255,255,0.1);
